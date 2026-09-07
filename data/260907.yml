@@ -2,40 +2,40 @@ about:
   description: "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 "
   license: NOASSERTION
   homepage: https://openclaw.ai
-  head: 52cf72a
+  head: c0c3402
   archived: false
   latestVersion: "v2026.9.2"
-  collectedAt: 2026-09-07T05:08:34Z
+  collectedAt: 2026-09-07T19:12:53Z
 timeline:
   created: 2025-11-24
   lastCommit: 2026-09-07
   lastRelease: 2026-09-05
 popularity:
-  star: 389068
-  watcher: 1748
-  fork: 81764
+  star: 389121
+  watcher: 1749
+  fork: 81767
   release: 240
-  contributor: 3036
-  pullRequest: 86759
-  issue: 51583
+  contributor: 3040
+  pullRequest: 87249
+  issue: 51724
 language:
-  TypeScript: 338241336
-  Swift: 17072418
-  Kotlin: 7511299
-  JavaScript: 3665811
-  Shell: 2211930
-  CSS: 1497326
-  Python: 996071
+  TypeScript: 341356672
+  Swift: 16554585
+  Kotlin: 7659535
+  JavaScript: 3726435
+  Shell: 2237562
+  CSS: 1523954
+  Python: 1014166
   Rust: 462509
   Go: 358095
   Ruby: 114112
-  PowerShell: 89145
+  PowerShell: 89029
+  Dockerfile: 40362
   HTML: 39866
-  Dockerfile: 39159
   Objective-C: 13596
   C: 3306
   Lobster: 2776
-totalBytes: 372318755
+totalBytes: 375196560
 recent:
   last30d:
     since: 2026-08-08
@@ -87,57 +87,57 @@ recent:
     commit: 0
 total:
   release: 240
-  mergedPR: 35061
-  openPR: 2364
-  closedIssue: 47679
-  openIssue: 3904
-  commit: 89488
+  mergedPR: 35484
+  openPR: 2346
+  closedIssue: 47762
+  openIssue: 3962
+  commit: 89909
 ---
 path: /home/runner/.x-repo/github.com/moltbot/moltbot
-collectedAt: 2026-09-07T05:15:19Z
+collectedAt: 2026-09-07T19:20:21Z
 loc:
   TypeScript:
-    code: 8604993
-    comments: 186195
-    blanks: 619917
-    files: 31702
+    code: 8677553
+    comments: 187215
+    blanks: 622565
+    files: 32001
   Swift:
-    code: 379174
-    comments: 7013
-    blanks: 37647
-    files: 1240
+    code: 366852
+    comments: 6950
+    blanks: 36535
+    files: 1232
   Kotlin:
-    code: 190308
-    comments: 3512
-    blanks: 17815
-    files: 486
+    code: 193630
+    comments: 3556
+    blanks: 18021
+    files: 495
   JavaScript:
-    code: 87077
-    comments: 3167
-    blanks: 5066
-    files: 412
+    code: 88459
+    comments: 3204
+    blanks: 5117
+    files: 418
   Yaml:
-    code: 60045
-    comments: 317
+    code: 60050
+    comments: 319
     blanks: 841
     files: 576
+  Css:
+    code: 56625
+    comments: 2640
+    blanks: 9648
+    files: 113
   Json:
-    code: 55740
+    code: 56522
     comments: 0
     blanks: 13
-    files: 619
-  Css:
-    code: 55620
-    comments: 2609
-    blanks: 9436
-    files: 112
+    files: 624
   Sh:
-    code: 52083
-    comments: 1752
-    blanks: 4879
-    files: 245
+    code: 52510
+    comments: 1765
+    blanks: 4890
+    files: 246
   Xml:
-    code: 44328
+    code: 44350
     comments: 34
     blanks: 18
     files: 124
@@ -152,17 +152,17 @@ loc:
     blanks: 1062
     files: 30
   Python:
-    code: 5068
-    comments: 144
-    blanks: 626
-    files: 22
+    code: 5369
+    comments: 154
+    blanks: 641
+    files: 26
   Sql:
     code: 2937
     comments: 93
     blanks: 329
     files: 2
   PowerShell:
-    code: 2241
+    code: 2238
     comments: 13
     blanks: 53
     files: 1
@@ -172,19 +172,19 @@ loc:
     blanks: 13
     files: 185
   Bash:
-    code: 613
+    code: 640
     comments: 84
     blanks: 43
     files: 8
+  Dockerfile:
+    code: 539
+    comments: 157
+    blanks: 100
+    files: 11
   Html:
     code: 522
     comments: 4
     blanks: 26
-    files: 9
-  Dockerfile:
-    code: 520
-    comments: 155
-    blanks: 100
     files: 9
   ObjectiveC:
     code: 377
@@ -223,24 +223,24 @@ loc:
     files: 2
   Markdown:
     code: 0
-    comments: 232578
-    blanks: 53043
-    files: 1085
+    comments: 235724
+    blanks: 53589
+    files: 1151
   Text:
     code: 0
-    comments: 22965
+    comments: 22966
     blanks: 4954
     files: 216
 total:
-  code: 9584334
-  comments: 461683
-  blanks: 757598
-  files: 37133
+  code: 9651879
+  comments: 465923
+  blanks: 760176
+  files: 37518
 ---
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:15:25+00:00
+  collectedAt: 2026-09-07T19:20:26+00:00
   platform:
     darwin/arm64:
       name:  null
