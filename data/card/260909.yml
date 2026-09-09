@@ -2,12 +2,12 @@ about:
   description: "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 "
   license: NOASSERTION
   homepage: https://openclaw.ai
-  head: ec74647
+  head: 10e57bf
   archived: false
   latestVersion: "v2026.9.3"
   latestRelease: "v2026.9.3"
   latestPrerelease: "v2026.9.1-beta.1"
-  collectedAt: 2026-09-09T05:22:00Z
+  collectedAt: 2026-09-09T19:23:06Z
 timeline:
   created: 2025-11-24
   lastCommit: 2026-09-09
@@ -15,31 +15,31 @@ timeline:
   lastRelease: 2026-09-08
   lastPrerelease: 2026-08-28
 popularity:
-  star: 389263
+  star: 389298
   watcher: 1751
-  fork: 81800
+  fork: 81815
   release: 241
-  contributor: 3057
-  pullRequest: 88263
-  issue: 52077
+  contributor: 3064
+  pullRequest: 88618
+  issue: 52213
 language:
-  TypeScript: 346052378
-  Swift: 16738379
-  Kotlin: 7968040
-  JavaScript: 3811515
-  Shell: 2308820
-  CSS: 1542208
-  Python: 1030216
-  Rust: 462509
+  TypeScript: 348066307
+  Swift: 16739423
+  Kotlin: 7972391
+  JavaScript: 3847370
+  Shell: 2325080
+  CSS: 1539418
+  Python: 1053132
+  Rust: 512592
   Go: 358095
   Ruby: 114112
-  PowerShell: 89029
+  PowerShell: 93608
   Dockerfile: 40523
   HTML: 39866
   Objective-C: 13596
   C: 3306
   Lobster: 2776
-totalBytes: 380575368
+totalBytes: 382721595
 recent:
   last30d:
     since: 2026-08-10
@@ -91,64 +91,64 @@ recent:
     commit: 0
 total:
   release: 241
-  mergedPR: 36401
-  openPR: 2343
-  closedIssue: 47992
-  openIssue: 4085
-  commit: 90797
+  mergedPR: 36704
+  openPR: 2357
+  closedIssue: 48077
+  openIssue: 4136
+  commit: 91100
 ---
 path: /home/runner/.x-repo/github.com/moltbot/moltbot
-collectedAt: 2026-09-09T05:28:29Z
+collectedAt: 2026-09-09T19:30:06Z
 loc:
   TypeScript:
-    code: 8786154
-    comments: 188361
-    blanks: 626746
-    files: 32364
+    code: 8833512
+    comments: 188923
+    blanks: 628289
+    files: 32468
   Swift:
-    code: 370475
-    comments: 6982
+    code: 370498
+    comments: 6981
     blanks: 36666
     files: 1256
   Kotlin:
-    code: 200079
-    comments: 3583
-    blanks: 18412
+    code: 200187
+    comments: 3584
+    blanks: 18423
     files: 498
   JavaScript:
-    code: 90447
-    comments: 3262
-    blanks: 5175
-    files: 426
+    code: 91775
+    comments: 3280
+    blanks: 5190
+    files: 430
   Yaml:
     code: 60773
     comments: 319
     blanks: 846
     files: 579
   Json:
-    code: 58136
+    code: 58668
     comments: 0
     blanks: 13
     files: 625
   Css:
-    code: 57264
+    code: 57136
     comments: 2654
-    blanks: 9760
+    blanks: 9747
     files: 115
   Sh:
-    code: 53523
-    comments: 1907
-    blanks: 4946
-    files: 246
+    code: 53842
+    comments: 1908
+    blanks: 4979
+    files: 248
   Xml:
-    code: 45619
+    code: 45597
     comments: 34
     blanks: 18
     files: 124
   Rust:
-    code: 12127
-    comments: 186
-    blanks: 910
+    code: 13280
+    comments: 200
+    blanks: 976
     files: 22
   Go:
     code: 9985
@@ -156,17 +156,17 @@ loc:
     blanks: 1062
     files: 30
   Python:
-    code: 5385
-    comments: 156
-    blanks: 641
-    files: 26
+    code: 5832
+    comments: 173
+    blanks: 680
+    files: 27
   Sql:
     code: 2938
     comments: 93
     blanks: 329
     files: 2
   PowerShell:
-    code: 2238
+    code: 2336
     comments: 13
     blanks: 53
     files: 1
@@ -227,19 +227,19 @@ loc:
     files: 2
   Markdown:
     code: 0
-    comments: 245058
-    blanks: 55572
-    files: 1285
+    comments: 250437
+    blanks: 56145
+    files: 1537
   Text:
     code: 0
-    comments: 23013
+    comments: 23006
     blanks: 4954
     files: 219
 total:
-  code: 9777137
-  comments: 476720
-  blanks: 767017
-  files: 38059
+  code: 9828392
+  comments: 482707
+  blanks: 769286
+  files: 38422
 ---
 
 ---
