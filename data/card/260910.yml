@@ -2,12 +2,12 @@ about:
   description: "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 "
   license: NOASSERTION
   homepage: https://openclaw.ai
-  head: ce405b8
+  head: 28589e7
   archived: false
   latestVersion: "v2026.6.35"
   latestRelease: "v2026.6.35"
   latestPrerelease: "v2026.9.1-beta.1"
-  collectedAt: 2026-09-10T21:09:53Z
+  collectedAt: 2026-09-10T22:33:51Z
 timeline:
   created: 2025-11-24
   lastCommit: 2026-09-10
@@ -15,20 +15,20 @@ timeline:
   lastRelease: 2026-09-10
   lastPrerelease: 2026-08-28
 popularity:
-  star: 389375
+  star: 389386
   watcher: 1749
-  fork: 81833
+  fork: 81835
   release: 242
   contributor: 3083
-  pullRequest: 89436
-  issue: 52469
+  pullRequest: 89462
+  issue: 52473
 language:
-  TypeScript: 353397190
+  TypeScript: 353595652
   Swift: 16772550
   Kotlin: 8242439
-  JavaScript: 4035809
+  JavaScript: 4036674
   Shell: 2334312
-  CSS: 1593586
+  CSS: 1595146
   Python: 1087324
   Rust: 512592
   Go: 358095
@@ -39,7 +39,7 @@ language:
   Objective-C: 13596
   C: 3306
   Lobster: 2776
-totalBytes: 388643933
+totalBytes: 388844820
 recent:
   last30d:
     since: 2026-08-11
@@ -91,20 +91,20 @@ recent:
     commit: 0
 total:
   release: 242
-  mergedPR: 37372
-  openPR: 2446
-  closedIssue: 48215
-  openIssue: 4254
-  commit: 91752
+  mergedPR: 37416
+  openPR: 2427
+  closedIssue: 48221
+  openIssue: 4252
+  commit: 91794
 ---
 path: /home/runner/.x-repo/github.com/moltbot/moltbot
-collectedAt: 2026-09-10T21:20:53Z
+collectedAt: 2026-09-10T22:42:02Z
 loc:
   TypeScript:
-    code: 8965076
-    comments: 190721
-    blanks: 632664
-    files: 32892
+    code: 8969682
+    comments: 190747
+    blanks: 632873
+    files: 32909
   Swift:
     code: 371306
     comments: 7004
@@ -116,8 +116,8 @@ loc:
     blanks: 18806
     files: 505
   JavaScript:
-    code: 96679
-    comments: 3462
+    code: 96691
+    comments: 3465
     blanks: 5305
     files: 439
   Yaml:
@@ -126,12 +126,12 @@ loc:
     blanks: 847
     files: 580
   Css:
-    code: 59186
-    comments: 2696
-    blanks: 10110
+    code: 59249
+    comments: 2697
+    blanks: 10124
     files: 118
   Json:
-    code: 58968
+    code: 58969
     comments: 0
     blanks: 13
     files: 625
@@ -227,19 +227,19 @@ loc:
     files: 2
   Markdown:
     code: 0
-    comments: 253421
-    blanks: 56831
+    comments: 253425
+    blanks: 56832
     files: 1580
   Text:
     code: 0
-    comments: 22977
+    comments: 22973
     blanks: 4954
     files: 219
 total:
-  code: 9974652
-  comments: 487828
-  blanks: 775289
-  files: 38913
+  code: 9979334
+  comments: 487858
+  blanks: 775513
+  files: 38930
 ---
 
 ---
