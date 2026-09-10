@@ -1,52 +1,52 @@
 # moltbot
 
-[中文版本](./README.cn.md)
+[English version](./README.md)
 
 The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
 
-![moltbot](https://repo.x-cmd.io/moltbot.svg)
+![moltbot](https://repo.x-cmd.io/moltbot.svg?lang=zh)
 
-## Install
+## 安装
 
 ```sh
 x install moltbot
 ```
 
-## Code insight
+## 代码规模
 
-Total: **9,956,229** lines of code across **35675** files in the top 5 languages.
+合计: **9,956,229** 行代码（覆盖前 5 种语言、共 **35675** 个文件）。
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
 | TypeScript | 8,965,076 | 190,721 | 632,664 | 32892 |
 | Swift | 371,306 | 7,004 | 36,738 | 1259 |
 | Kotlin | 205,815 | 3,687 | 18,806 | 505 |
 | JavaScript | 96,679 | 3,462 | 5,305 | 439 |
 | Yaml | 60,809 | 323 | 847 | 580 |
 
-## Source
+## 源代码
 
-- **Upstream**: <https://github.com/moltbot/moltbot>
-- **Homepage**: <https://openclaw.ai>
-- **License**: NOASSERTION
+- **上游仓库**: <https://github.com/moltbot/moltbot>
+- **官网**: <https://openclaw.ai>
+- **许可证**: NOASSERTION
 
-## Release
+## 发布
 
-- **Latest**: `v2026.6.35` (2026-09-10)
-- **Last commit**: 2026-09-10
-- **Assets in release**: 19
+- **最新版本**: `v2026.6.35` (2026-09-10)
+- **最近提交**: 2026-09-10
+- **Release 含资产**: 19 个
 
-## Popularity
+## 流行度
 
-- **Stars**: 389,375 · **Forks**: 81,833 · **Open issues**: 52,469 · **Contributors**: 3,083
+- **Star**: 389,375 · **Fork**: 81,833 · **开放 issue**: 52,469 · **贡献者**: 3,083
 
-## Totals (cumulative)
+## 累计统计
 
-- **Releases**: 242 · **Merged PRs**: 37372 · **Open PRs**: 2446 · **Closed issues**: 48215 · **Open issues**: 4254 · **Commits**: 91752
+- **发布数**: 242 · **已合并 PR**: 37372 · **开放 PR**: 2446 · **已关闭 issue**: 48215 · **开放 issue**: 4254 · **提交数**: 91752
 
-## Recent activity
+## 最近活动
 
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 9 | 0 | 0 | 0 | 0 | 0 |
 | last60d | 2026-07-12 | 21 | 0 | 0 | 0 | 0 | 0 |
@@ -55,10 +55,10 @@ Total: **9,956,229** lines of code across **35675** files in the top 5 languages
 | 360d | 2025-09-15 | 100 | 0 | 0 | 0 | 0 | 0 |
 | last720d | 2024-09-20 | 100 | 0 | 0 | 0 | 0 | 0 |
 
-## Release assets
+## Release 资产
 
-| Asset | Size | Target |
-|-------|-----:|--------|
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
 | [openclaw-2026.9.3-clawhub-verification.json](https://github.com/moltbot/moltbot/releases/download/v2026.9.3/openclaw-2026.9.3-clawhub-verification.json) | 40.6 KiB | `other` |
 | [openclaw-2026.9.3-clawhub-verification.json.sha256](https://github.com/moltbot/moltbot/releases/download/v2026.9.3/openclaw-2026.9.3-clawhub-verification.json.sha256) | 110 B | `other` |
 | [openclaw-2026.9.3-dependency-evidence.zip](https://github.com/moltbot/moltbot/releases/download/v2026.9.3/openclaw-2026.9.3-dependency-evidence.zip) | 291.4 KiB | `other` |
@@ -79,13 +79,13 @@ Total: **9,956,229** lines of code across **35675** files in the top 5 languages
 | [OpenClaw-2026.9.3.dSYM.zip](https://github.com/moltbot/moltbot/releases/download/v2026.9.3/OpenClaw-2026.9.3.dSYM.zip) | 71.2 MiB | `other` |
 | [OpenClaw-2026.9.3.zip](https://github.com/moltbot/moltbot/releases/download/v2026.9.3/OpenClaw-2026.9.3.zip) | 565.0 MiB | `other` |
 
-## Improve this data
+## 改进这些数据
 
-Install metadata for moltbot lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `moltbot` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+moltbot 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `moltbot` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
 
-- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/moltbot.yml> (or whichever path the index uses)
+- **提交 issue**: <https://github.com/x-cmd/install/issues/new>
+- **编辑包条目**: <https://github.com/x-cmd/install/edit/main/moltbot.yml>（或索引实际使用的路径）
 
-The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T21:21:04Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:21:05Z._
