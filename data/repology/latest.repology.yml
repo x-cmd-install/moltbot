@@ -1,0 +1,12 @@
+- repo: aur
+  srcname: moltbot
+  binname: moltbot
+  visiblename: moltbot
+  version: 2026.1.24.3
+  origversion: 2026.1.24.3-1
+  status: unique
+  summary: Personal AI assistant supporting Claude, Ollama, and other LLMs - the lobster way
+  maintainers:
+    - jbeard@aur
+  licenses:
+    - MIT
