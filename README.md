@@ -14,14 +14,14 @@ x install moltbot
 
 ## Code insight
 
-Total: **9,956,229** lines of code across **35675** files in the top 5 languages.
+Total: **9,960,911** lines of code across **35692** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 8,965,076 | 190,721 | 632,664 | 32892 |
+| TypeScript | 8,969,682 | 190,747 | 632,873 | 32909 |
 | Swift | 371,306 | 7,004 | 36,738 | 1259 |
 | Kotlin | 205,815 | 3,687 | 18,806 | 505 |
-| JavaScript | 96,679 | 3,462 | 5,305 | 439 |
+| JavaScript | 96,691 | 3,465 | 5,305 | 439 |
 | Yaml | 60,809 | 323 | 847 | 580 |
 
 ## Source
@@ -38,11 +38,11 @@ Total: **9,956,229** lines of code across **35675** files in the top 5 languages
 
 ## Popularity
 
-- **Stars**: 389,375 · **Forks**: 81,833 · **Open issues**: 52,469 · **Contributors**: 3,083
+- **Stars**: 389,386 · **Forks**: 81,835 · **Open issues**: 52,473 · **Contributors**: 3,083
 
 ## Totals (cumulative)
 
-- **Releases**: 242 · **Merged PRs**: 37372 · **Open PRs**: 2446 · **Closed issues**: 48215 · **Open issues**: 4254 · **Commits**: 91752
+- **Releases**: 242 · **Merged PRs**: 37416 · **Open PRs**: 2427 · **Closed issues**: 48221 · **Open issues**: 4252 · **Commits**: 91794
 
 ## Recent activity
 
@@ -88,4 +88,4 @@ Install metadata for moltbot lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T21:21:04Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T22:42:15Z._
