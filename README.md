@@ -14,15 +14,15 @@ x install moltbot
 
 ## Code insight
 
-Total: **11,875,015** lines of code across **42750** files in the top 5 languages.
+Total: **12,037,534** lines of code across **44053** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 10,727,750 | 207,216 | 686,173 | 40130 |
-| Swift | 397,539 | 7,282 | 38,309 | 1336 |
-| Kotlin | 230,429 | 4,065 | 20,108 | 578 |
-| JavaScript | 126,116 | 4,094 | 6,029 | 548 |
-| Css | 68,752 | 2,778 | 11,308 | 158 |
+| TypeScript | 10,869,577 | 209,737 | 685,451 | 40844 |
+| Swift | 401,763 | 7,383 | 38,607 | 1348 |
+| Kotlin | 234,366 | 4,164 | 20,368 | 592 |
+| JavaScript | 131,864 | 4,193 | 6,121 | 569 |
+| Json | 69,976 | 0 | 13 | 700 |
 
 ## Source
 
@@ -32,48 +32,49 @@ Total: **11,875,015** lines of code across **42750** files in the top 5 language
 
 ## Release
 
-- **Latest**: `v2026.7.35` (2026-09-21)
-- **Last commit**: 2026-09-23
-- **Assets in release**: 15
+- **Latest**: `v2026.9.6` (2026-09-23)
+- **Last commit**: 2026-09-25
+- **Assets in release**: 16
 
 ## Popularity
 
-- **Stars**: 390,278 · **Forks**: 82,103 · **Open issues**: 55,437 · **Contributors**: 3,151
+- **Stars**: 390,447 · **Forks**: 82,140 · **Open issues**: 55,934 · **Contributors**: 3,159
 
 ## Totals (cumulative)
 
-- **Releases**: 246 · **Merged PRs**: 44457 · **Open PRs**: 2928 · **Closed issues**: 50079 · **Open issues**: 5358 · **Commits**: 98849
+- **Releases**: 247 · **Merged PRs**: 45363 · **Open PRs**: 3087 · **Closed issues**: 50423 · **Open issues**: 5511 · **Commits**: 99862
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 12 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-25 | 20 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-25 | 30 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-27 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-28 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-03 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-26 | 12 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-27 | 21 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-27 | 31 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-29 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-30 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-05 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [latest.json](https://github.com/moltbot/moltbot/releases/download/v2026.9.5/latest.json) | 3.6 KiB | `other` |
-| [OpenClaw-2026.9.5-amd64.AppImage](https://github.com/moltbot/moltbot/releases/download/v2026.9.5/OpenClaw-2026.9.5-amd64.AppImage) | 133.5 MiB | `other` |
-| [OpenClaw-2026.9.5-amd64.deb](https://github.com/moltbot/moltbot/releases/download/v2026.9.5/OpenClaw-2026.9.5-amd64.deb) | 11.1 MiB | `other` |
-| [openclaw-2026.9.5-dependency-evidence.zip](https://github.com/moltbot/moltbot/releases/download/v2026.9.5/openclaw-2026.9.5-dependency-evidence.zip) | 299.0 KiB | `other` |
-| [OpenClaw-2026.9.5-linux.json](https://github.com/moltbot/moltbot/releases/download/v2026.9.5/OpenClaw-2026.9.5-linux.json) | 3.6 KiB | `other` |
-| [openclaw-2026.9.5-postpublish-evidence.json](https://github.com/moltbot/moltbot/releases/download/v2026.9.5/openclaw-2026.9.5-postpublish-evidence.json) | 1.4 KiB | `other` |
-| [openclaw-2026.9.5-postpublish-evidence.json.sha256](https://github.com/moltbot/moltbot/releases/download/v2026.9.5/openclaw-2026.9.5-postpublish-evidence.json.sha256) | 110 B | `other` |
-| [openclaw-2026.9.5-release-manifest.json](https://github.com/moltbot/moltbot/releases/download/v2026.9.5/openclaw-2026.9.5-release-manifest.json) | 180.4 KiB | `other` |
-| [openclaw-2026.9.5-release-manifest.json.sha256](https://github.com/moltbot/moltbot/releases/download/v2026.9.5/openclaw-2026.9.5-release-manifest.json.sha256) | 106 B | `other` |
-| [openclaw-2026.9.5-stable-main-closeout.json](https://github.com/moltbot/moltbot/releases/download/v2026.9.5/openclaw-2026.9.5-stable-main-closeout.json) | 2.8 KiB | `other` |
-| [openclaw-2026.9.5-stable-main-closeout.json.sha256](https://github.com/moltbot/moltbot/releases/download/v2026.9.5/openclaw-2026.9.5-stable-main-closeout.json.sha256) | 110 B | `other` |
-| [OpenClaw-2026.9.5.dmg](https://github.com/moltbot/moltbot/releases/download/v2026.9.5/OpenClaw-2026.9.5.dmg) | 358.4 MiB | `other` |
-| [OpenClaw-2026.9.5.dSYM.zip](https://github.com/moltbot/moltbot/releases/download/v2026.9.5/OpenClaw-2026.9.5.dSYM.zip) | 74.0 MiB | `other` |
-| [OpenClaw-2026.9.5.zip](https://github.com/moltbot/moltbot/releases/download/v2026.9.5/OpenClaw-2026.9.5.zip) | 514.7 MiB | `other` |
-| [SHA256SUMS.linux-app.txt](https://github.com/moltbot/moltbot/releases/download/v2026.9.5/SHA256SUMS.linux-app.txt) | 197 B | `other` |
+| [OpenClaw-2026.9.6-arm64.dmg](https://github.com/moltbot/moltbot/releases/download/v2026.9.6/OpenClaw-2026.9.6-arm64.dmg) | 154.2 MiB | `other` |
+| [OpenClaw-2026.9.6-arm64.dSYM.zip](https://github.com/moltbot/moltbot/releases/download/v2026.9.6/OpenClaw-2026.9.6-arm64.dSYM.zip) | 37.1 MiB | `other` |
+| [OpenClaw-2026.9.6-arm64.zip](https://github.com/moltbot/moltbot/releases/download/v2026.9.6/OpenClaw-2026.9.6-arm64.zip) | 227.4 MiB | `other` |
+| [openclaw-2026.9.6-dependency-evidence.zip](https://github.com/moltbot/moltbot/releases/download/v2026.9.6/openclaw-2026.9.6-dependency-evidence.zip) | 305.2 KiB | `other` |
+| [openclaw-2026.9.6-postpublish-evidence.json](https://github.com/moltbot/moltbot/releases/download/v2026.9.6/openclaw-2026.9.6-postpublish-evidence.json) | 23.3 KiB | `other` |
+| [openclaw-2026.9.6-postpublish-evidence.json.sha256](https://github.com/moltbot/moltbot/releases/download/v2026.9.6/openclaw-2026.9.6-postpublish-evidence.json.sha256) | 110 B | `other` |
+| [openclaw-2026.9.6-release-manifest.json](https://github.com/moltbot/moltbot/releases/download/v2026.9.6/openclaw-2026.9.6-release-manifest.json) | 191.2 KiB | `other` |
+| [openclaw-2026.9.6-release-manifest.json.sha256](https://github.com/moltbot/moltbot/releases/download/v2026.9.6/openclaw-2026.9.6-release-manifest.json.sha256) | 106 B | `other` |
+| [openclaw-2026.9.6-stable-main-closeout.json](https://github.com/moltbot/moltbot/releases/download/v2026.9.6/openclaw-2026.9.6-stable-main-closeout.json) | 3.6 KiB | `other` |
+| [openclaw-2026.9.6-stable-main-closeout.json.sha256](https://github.com/moltbot/moltbot/releases/download/v2026.9.6/openclaw-2026.9.6-stable-main-closeout.json.sha256) | 110 B | `other` |
+| [OpenClaw-2026.9.6-x86_64.dmg](https://github.com/moltbot/moltbot/releases/download/v2026.9.6/OpenClaw-2026.9.6-x86_64.dmg) | 165.0 MiB | `other` |
+| [OpenClaw-2026.9.6-x86_64.dSYM.zip](https://github.com/moltbot/moltbot/releases/download/v2026.9.6/OpenClaw-2026.9.6-x86_64.dSYM.zip) | 39.0 MiB | `other` |
+| [OpenClaw-2026.9.6-x86_64.zip](https://github.com/moltbot/moltbot/releases/download/v2026.9.6/OpenClaw-2026.9.6-x86_64.zip) | 235.9 MiB | `other` |
+| [OpenClaw-2026.9.6.dmg](https://github.com/moltbot/moltbot/releases/download/v2026.9.6/OpenClaw-2026.9.6.dmg) | 311.1 MiB | `other` |
+| [OpenClaw-2026.9.6.dSYM.zip](https://github.com/moltbot/moltbot/releases/download/v2026.9.6/OpenClaw-2026.9.6.dSYM.zip) | 74.7 MiB | `other` |
+| [OpenClaw-2026.9.6.zip](https://github.com/moltbot/moltbot/releases/download/v2026.9.6/OpenClaw-2026.9.6.zip) | 452.9 MiB | `other` |
 
 ## Improve this data
 
@@ -84,4 +85,4 @@ Install metadata for moltbot lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T05:43:00Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T05:39:37Z._
