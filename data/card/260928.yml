@@ -1,0 +1,254 @@
+about:
+  description: "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 "
+  license: NOASSERTION
+  homepage: https://openclaw.ai
+  head: 1fe560c
+  archived: false
+  latestVersion: "v2026.9.6"
+  latestRelease: "v2026.9.6"
+  latestPrerelease: "linux-stable"
+  collectedAt: 2026-09-28T05:50:52Z
+timeline:
+  created: 2025-11-24
+  lastCommit: 2026-09-28
+  lastVersion: 2026-09-23
+  lastRelease: 2026-09-23
+  lastPrerelease: 2026-09-19
+popularity:
+  star: 390672
+  watcher: 1729
+  fork: 82161
+  release: 247
+  contributor: 3171
+  pullRequest: 101251
+  issue: 56458
+language:
+  TypeScript: 425431967
+  Swift: 18300164
+  Kotlin: 9659264
+  JavaScript: 5958440
+  Shell: 2626260
+  Rust: 1851808
+  CSS: 1839399
+  Python: 1502411
+  Go: 346189
+  Ruby: 118434
+  PowerShell: 104441
+  HTML: 57313
+  Dockerfile: 42818
+  QML: 25290
+  Objective-C: 13780
+  C: 3315
+  AppleScript: 2650
+totalBytes: 467883943
+recent:
+  last30d:
+    since: 2026-08-29
+    release: 11
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-30
+    release: 20
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-30
+    release: 30
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-04-01
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-10-03
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last720d:
+    since: 2024-10-08
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+total:
+  release: 247
+  mergedPR: 46752
+  openPR: 3183
+  closedIssue: 50803
+  openIssue: 5655
+  commit: 101382
+---
+path: /home/runner/.x-repo/github.com/moltbot/moltbot
+collectedAt: 2026-09-28T06:01:54Z
+loc:
+  TypeScript:
+    code: 10627642
+    comments: 195193
+    blanks: 661635
+    files: 41314
+  Swift:
+    code: 399834
+    comments: 7407
+    blanks: 38333
+    files: 1366
+  Kotlin:
+    code: 235292
+    comments: 3925
+    blanks: 20306
+    files: 607
+  JavaScript:
+    code: 140339
+    comments: 4456
+    blanks: 6306
+    files: 597
+  Json:
+    code: 71215
+    comments: 0
+    blanks: 13
+    files: 701
+  Css:
+    code: 68320
+    comments: 2841
+    blanks: 11224
+    files: 160
+  Yaml:
+    code: 64520
+    comments: 353
+    blanks: 883
+    files: 609
+  Xml:
+    code: 59062
+    comments: 37
+    blanks: 18
+    files: 127
+  Sh:
+    code: 57995
+    comments: 2188
+    blanks: 5238
+    files: 283
+  Rust:
+    code: 46931
+    comments: 516
+    blanks: 2807
+    files: 59
+  Python:
+    code: 10311
+    comments: 258
+    blanks: 1106
+    files: 44
+  Go:
+    code: 9583
+    comments: 28
+    blanks: 1036
+    files: 30
+  Sql:
+    code: 7798
+    comments: 149
+    blanks: 1019
+    files: 10
+  PowerShell:
+    code: 2536
+    comments: 22
+    blanks: 57
+    files: 2
+  Svg:
+    code: 2021
+    comments: 2938
+    blanks: 13
+    files: 383
+  Bash:
+    code: 907
+    comments: 87
+    blanks: 49
+    files: 8
+  Html:
+    code: 882
+    comments: 4
+    blanks: 26
+    files: 10
+  Qml:
+    code: 593
+    comments: 6
+    blanks: 13
+    files: 3
+  Dockerfile:
+    code: 575
+    comments: 162
+    blanks: 104
+    files: 11
+  Toml:
+    code: 476
+    comments: 43
+    blanks: 73
+    files: 29
+  ObjectiveC:
+    code: 369
+    comments: 7
+    blanks: 38
+    files: 2
+  CHeader:
+    code: 70
+    comments: 10
+    blanks: 13
+    files: 3
+  Batch:
+    code: 64
+    comments: 0
+    blanks: 18
+    files: 1
+  XcodeConfig:
+    code: 45
+    comments: 11
+    blanks: 11
+    files: 2
+  Autoconf:
+    code: 23
+    comments: 5
+    blanks: 4
+    files: 1
+  Prolog:
+    code: 16
+    comments: 0
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 348593
+    blanks: 84715
+    files: 1810
+  Text:
+    code: 0
+    comments: 24707
+    blanks: 5277
+    files: 243
+total:
+  code: 11826427
+  comments: 595058
+  blanks: 841052
+  files: 48417
+---
+
+---
+  - OpenClaw.yml
+  - OpenClaw
+  - Info.plist
