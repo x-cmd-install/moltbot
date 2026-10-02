@@ -14,15 +14,15 @@ x install moltbot
 
 ## Code insight
 
-Total: **11,445,684** lines of code across **45257** files in the top 5 languages.
+Total: **11,464,902** lines of code across **45688** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 10,272,161 | 182,104 | 610,979 | 41873 |
-| Swift | 415,011 | 7,735 | 39,183 | 1442 |
-| Kotlin | 233,895 | 3,957 | 20,292 | 611 |
-| JavaScript | 145,771 | 4,598 | 6,344 | 610 |
-| Json | 73,232 | 0 | 13 | 721 |
+| TypeScript | 10,302,639 | 181,364 | 607,717 | 42240 |
+| Swift | 398,902 | 8,033 | 36,811 | 1485 |
+| Kotlin | 234,213 | 3,964 | 20,288 | 613 |
+| JavaScript | 149,276 | 4,695 | 6,462 | 623 |
+| Json | 73,884 | 0 | 13 | 727 |
 
 ## Source
 
@@ -32,28 +32,28 @@ Total: **11,445,684** lines of code across **45257** files in the top 5 language
 
 ## Release
 
-- **Latest**: `v2026.9.7` (2026-09-30)
-- **Last commit**: 2026-10-01
+- **Latest**: `v2026.8.34` (2026-10-02)
+- **Last commit**: 2026-10-02
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 391,050 · **Forks**: 82,229 · **Open issues**: 57,026 · **Contributors**: 3,180
+- **Stars**: 391,182 · **Forks**: 82,238 · **Open issues**: 57,206 · **Contributors**: 3,199
 
 ## Totals (cumulative)
 
-- **Releases**: 249 · **Merged PRs**: 48131 · **Open PRs**: 3296 · **Closed issues**: 51167 · **Open issues**: 5859 · **Commits**: 103085
+- **Releases**: 250 · **Merged PRs**: 48774 · **Open PRs**: 3245 · **Closed issues**: 51311 · **Open issues**: 5895 · **Commits**: 103790
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 12 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-02 | 21 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-03 | 30 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-04 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-06 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-11 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-02 | 12 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-03 | 21 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-04 | 31 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-05 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-07 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-12 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for moltbot lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T06:41:43Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T06:23:59Z._
