@@ -14,68 +14,57 @@ x install moltbot
 
 ## 代码洞察
 
-合计: **11,464,902** 行代码（覆盖前 5 种语言、共 **45688** 个文件）。
+合计: **11,536,080** 行代码（覆盖前 5 种语言、共 **46150** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 10,302,639 | 181,364 | 607,717 | 42240 |
-| Swift | 398,902 | 8,033 | 36,811 | 1485 |
-| Kotlin | 234,213 | 3,964 | 20,288 | 613 |
-| JavaScript | 149,276 | 4,695 | 6,462 | 623 |
-| Json | 73,884 | 0 | 13 | 727 |
+| TypeScript | 10,368,686 | 180,680 | 607,850 | 42676 |
+| Swift | 402,695 | 8,138 | 36,952 | 1505 |
+| Kotlin | 233,730 | 3,959 | 20,257 | 615 |
+| JavaScript | 150,863 | 4,702 | 6,451 | 627 |
+| Json | 74,055 | 0 | 13 | 727 |
 
 ## 源代码
 
 - **上游仓库**: <https://github.com/moltbot/moltbot>
 - **官网**: <https://openclaw.ai>
-- **许可证**: NOASSERTION
+- **许可证**: MIT
 
 ## 发布
 
-- **最新版本**: `v2026.8.34` (2026-10-02)
-- **最近提交**: 2026-10-02
-- **Release 含资产**: 17 个
+- **最新版本**: `v2026.9.8` (2026-10-03)
+- **最近提交**: 2026-10-03
+- **Release 含资产**: 6 个
 
 ## 流行度
 
-- **Star**: 391,182 · **Fork**: 82,238 · **开放 issue**: 57,206 · **贡献者**: 3,199
+- **Star**: 391,198 · **Fork**: 82,230 · **开放 issue**: 57,312 · **贡献者**: 3,205
 
 ## 累计统计
 
-- **发布数**: 250 · **已合并 PR**: 48774 · **开放 PR**: 3245 · **已关闭 issue**: 51311 · **开放 issue**: 5895 · **提交数**: 103790
+- **发布数**: 252 · **已合并 PR**: 49311 · **开放 PR**: 3222 · **已关闭 issue**: 51392 · **开放 issue**: 5920 · **提交数**: 104395
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 12 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-03 | 21 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-04 | 31 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-05 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-07 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-12 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-03 | 14 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-04 | 23 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-05 | 33 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-06 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-08 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-13 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [latest.json](https://github.com/moltbot/moltbot/releases/download/v2026.9.7/latest.json) | 3.6 KiB | `other` |
-| [OpenClaw-2026.9.7-arm64.dmg](https://github.com/moltbot/moltbot/releases/download/v2026.9.7/OpenClaw-2026.9.7-arm64.dmg) | 162.4 MiB | `other` |
-| [OpenClaw-2026.9.7-arm64.dSYM.zip](https://github.com/moltbot/moltbot/releases/download/v2026.9.7/OpenClaw-2026.9.7-arm64.dSYM.zip) | 34.7 MiB | `other` |
-| [OpenClaw-2026.9.7-arm64.zip](https://github.com/moltbot/moltbot/releases/download/v2026.9.7/OpenClaw-2026.9.7-arm64.zip) | 239.6 MiB | `other` |
-| [openclaw-2026.9.7-dependency-evidence.zip](https://github.com/moltbot/moltbot/releases/download/v2026.9.7/openclaw-2026.9.7-dependency-evidence.zip) | 322.5 KiB | `other` |
-| [openclaw-2026.9.7-postpublish-evidence.json](https://github.com/moltbot/moltbot/releases/download/v2026.9.7/openclaw-2026.9.7-postpublish-evidence.json) | 22.3 KiB | `other` |
-| [openclaw-2026.9.7-postpublish-evidence.json.sha256](https://github.com/moltbot/moltbot/releases/download/v2026.9.7/openclaw-2026.9.7-postpublish-evidence.json.sha256) | 110 B | `other` |
-| [openclaw-2026.9.7-release-manifest.json](https://github.com/moltbot/moltbot/releases/download/v2026.9.7/openclaw-2026.9.7-release-manifest.json) | 245.3 KiB | `other` |
-| [openclaw-2026.9.7-release-manifest.json.sha256](https://github.com/moltbot/moltbot/releases/download/v2026.9.7/openclaw-2026.9.7-release-manifest.json.sha256) | 106 B | `other` |
-| [openclaw-2026.9.7-stable-main-closeout.json](https://github.com/moltbot/moltbot/releases/download/v2026.9.7/openclaw-2026.9.7-stable-main-closeout.json) | 1.7 KiB | `other` |
-| [openclaw-2026.9.7-stable-main-closeout.json.sha256](https://github.com/moltbot/moltbot/releases/download/v2026.9.7/openclaw-2026.9.7-stable-main-closeout.json.sha256) | 110 B | `other` |
-| [OpenClaw-2026.9.7-x86_64.dmg](https://github.com/moltbot/moltbot/releases/download/v2026.9.7/OpenClaw-2026.9.7-x86_64.dmg) | 174.6 MiB | `other` |
-| [OpenClaw-2026.9.7-x86_64.dSYM.zip](https://github.com/moltbot/moltbot/releases/download/v2026.9.7/OpenClaw-2026.9.7-x86_64.dSYM.zip) | 36.8 MiB | `other` |
-| [OpenClaw-2026.9.7-x86_64.zip](https://github.com/moltbot/moltbot/releases/download/v2026.9.7/OpenClaw-2026.9.7-x86_64.zip) | 249.4 MiB | `other` |
-| [OpenClaw-2026.9.7.dmg](https://github.com/moltbot/moltbot/releases/download/v2026.9.7/OpenClaw-2026.9.7.dmg) | 328.3 MiB | `other` |
-| [OpenClaw-2026.9.7.dSYM.zip](https://github.com/moltbot/moltbot/releases/download/v2026.9.7/OpenClaw-2026.9.7.dSYM.zip) | 71.5 MiB | `other` |
-| [OpenClaw-2026.9.7.zip](https://github.com/moltbot/moltbot/releases/download/v2026.9.7/OpenClaw-2026.9.7.zip) | 478.6 MiB | `other` |
+| [latest.json](https://github.com/moltbot/moltbot/releases/download/v2026.9.8/latest.json) | 3.6 KiB | `other` |
+| [openclaw-2026.9.8-dependency-evidence.zip](https://github.com/moltbot/moltbot/releases/download/v2026.9.8/openclaw-2026.9.8-dependency-evidence.zip) | 289.6 KiB | `other` |
+| [openclaw-2026.9.8-postpublish-evidence.json](https://github.com/moltbot/moltbot/releases/download/v2026.9.8/openclaw-2026.9.8-postpublish-evidence.json) | 22.3 KiB | `other` |
+| [openclaw-2026.9.8-postpublish-evidence.json.sha256](https://github.com/moltbot/moltbot/releases/download/v2026.9.8/openclaw-2026.9.8-postpublish-evidence.json.sha256) | 110 B | `other` |
+| [openclaw-2026.9.8-release-manifest.json](https://github.com/moltbot/moltbot/releases/download/v2026.9.8/openclaw-2026.9.8-release-manifest.json) | 258.6 KiB | `other` |
+| [openclaw-2026.9.8-release-manifest.json.sha256](https://github.com/moltbot/moltbot/releases/download/v2026.9.8/openclaw-2026.9.8-release-manifest.json.sha256) | 106 B | `other` |
 
 ## 改进这些数据
 
@@ -86,4 +75,4 @@ moltbot 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261002.yml` · 2026-10-02T06:24:00Z._
+_数据快照: `data/card/261003.yml` · 2026-10-03T05:55:49Z._
