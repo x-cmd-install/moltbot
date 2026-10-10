@@ -14,15 +14,15 @@ x install moltbot
 
 ## 代码洞察
 
-合计: **11,597,623** 行代码（覆盖前 5 种语言、共 **47003** 个文件）。
+合计: **11,498,411** 行代码（覆盖前 5 种语言、共 **47089** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 10,420,471 | 176,354 | 584,308 | 43479 |
-| Swift | 404,574 | 8,330 | 36,965 | 1521 |
-| Kotlin | 233,354 | 3,955 | 20,188 | 619 |
-| JavaScript | 156,968 | 4,710 | 6,520 | 650 |
-| Json | 78,657 | 0 | 13 | 734 |
+| TypeScript | 10,317,270 | 176,822 | 566,028 | 43545 |
+| Swift | 412,895 | 8,637 | 37,422 | 1535 |
+| Kotlin | 227,429 | 3,930 | 19,820 | 618 |
+| JavaScript | 158,229 | 4,797 | 6,540 | 653 |
+| Json | 89,169 | 0 | 13 | 738 |
 
 ## 源代码
 
@@ -32,50 +32,57 @@ x install moltbot
 
 ## 发布
 
-- **最新版本**: `v2026.10.1-beta.1` (2026-10-03)
-- **最近提交**: 2026-10-07
-- **Release 含资产**: 17 个
+- **最新版本**: `v2026.9.9` (2026-10-08)
+- **最近提交**: 2026-10-10
+- **Release 含资产**: 24 个
 
 ## 流行度
 
-- **Star**: 391,524 · **Fork**: 82,286 · **开放 issue**: 58,003 · **贡献者**: 3,235
+- **Star**: 391,556 · **Fork**: 82,295 · **开放 issue**: 58,571 · **贡献者**: 3,251
 
 ## 累计统计
 
-- **发布数**: 253 · **已合并 PR**: 50727 · **开放 PR**: 3330 · **已关闭 issue**: 51927 · **开放 issue**: 6076 · **提交数**: 106021
+- **发布数**: 255 · **已合并 PR**: 51694 · **开放 PR**: 3311 · **已关闭 issue**: 52468 · **开放 issue**: 6103 · **提交数**: 107137
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 13 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-08 | 22 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-09 | 33 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-10 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-12 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-17 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-10 | 14 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-11 | 22 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-12 | 34 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-13 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-15 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-20 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [latest.json](https://github.com/moltbot/moltbot/releases/download/v2026.9.8/latest.json) | 3.6 KiB | `other` |
-| [OpenClaw-2026.9.8-arm64.dmg](https://github.com/moltbot/moltbot/releases/download/v2026.9.8/OpenClaw-2026.9.8-arm64.dmg) | 162.0 MiB | `other` |
-| [OpenClaw-2026.9.8-arm64.dSYM.zip](https://github.com/moltbot/moltbot/releases/download/v2026.9.8/OpenClaw-2026.9.8-arm64.dSYM.zip) | 34.7 MiB | `other` |
-| [OpenClaw-2026.9.8-arm64.zip](https://github.com/moltbot/moltbot/releases/download/v2026.9.8/OpenClaw-2026.9.8-arm64.zip) | 239.6 MiB | `other` |
-| [openclaw-2026.9.8-dependency-evidence.zip](https://github.com/moltbot/moltbot/releases/download/v2026.9.8/openclaw-2026.9.8-dependency-evidence.zip) | 289.6 KiB | `other` |
-| [openclaw-2026.9.8-postpublish-evidence.json](https://github.com/moltbot/moltbot/releases/download/v2026.9.8/openclaw-2026.9.8-postpublish-evidence.json) | 22.3 KiB | `other` |
-| [openclaw-2026.9.8-postpublish-evidence.json.sha256](https://github.com/moltbot/moltbot/releases/download/v2026.9.8/openclaw-2026.9.8-postpublish-evidence.json.sha256) | 110 B | `other` |
-| [openclaw-2026.9.8-release-manifest.json](https://github.com/moltbot/moltbot/releases/download/v2026.9.8/openclaw-2026.9.8-release-manifest.json) | 258.6 KiB | `other` |
-| [openclaw-2026.9.8-release-manifest.json.sha256](https://github.com/moltbot/moltbot/releases/download/v2026.9.8/openclaw-2026.9.8-release-manifest.json.sha256) | 106 B | `other` |
-| [openclaw-2026.9.8-stable-main-closeout.json](https://github.com/moltbot/moltbot/releases/download/v2026.9.8/openclaw-2026.9.8-stable-main-closeout.json) | 1.7 KiB | `other` |
-| [openclaw-2026.9.8-stable-main-closeout.json.sha256](https://github.com/moltbot/moltbot/releases/download/v2026.9.8/openclaw-2026.9.8-stable-main-closeout.json.sha256) | 110 B | `other` |
-| [OpenClaw-2026.9.8-x86_64.dmg](https://github.com/moltbot/moltbot/releases/download/v2026.9.8/OpenClaw-2026.9.8-x86_64.dmg) | 174.5 MiB | `other` |
-| [OpenClaw-2026.9.8-x86_64.dSYM.zip](https://github.com/moltbot/moltbot/releases/download/v2026.9.8/OpenClaw-2026.9.8-x86_64.dSYM.zip) | 36.8 MiB | `other` |
-| [OpenClaw-2026.9.8-x86_64.zip](https://github.com/moltbot/moltbot/releases/download/v2026.9.8/OpenClaw-2026.9.8-x86_64.zip) | 249.4 MiB | `other` |
-| [OpenClaw-2026.9.8.dmg](https://github.com/moltbot/moltbot/releases/download/v2026.9.8/OpenClaw-2026.9.8.dmg) | 328.6 MiB | `other` |
-| [OpenClaw-2026.9.8.dSYM.zip](https://github.com/moltbot/moltbot/releases/download/v2026.9.8/OpenClaw-2026.9.8.dSYM.zip) | 71.5 MiB | `other` |
-| [OpenClaw-2026.9.8.zip](https://github.com/moltbot/moltbot/releases/download/v2026.9.8/OpenClaw-2026.9.8.zip) | 478.6 MiB | `other` |
+| [latest.json](https://github.com/moltbot/moltbot/releases/download/v2026.9.9/latest.json) | 3.6 KiB | `other` |
+| [OpenClaw-2026.9.9-amd64.AppImage](https://github.com/moltbot/moltbot/releases/download/v2026.9.9/OpenClaw-2026.9.9-amd64.AppImage) | 133.7 MiB | `other` |
+| [OpenClaw-2026.9.9-amd64.deb](https://github.com/moltbot/moltbot/releases/download/v2026.9.9/OpenClaw-2026.9.9-amd64.deb) | 11.4 MiB | `other` |
+| [OpenClaw-2026.9.9-arm64.dmg](https://github.com/moltbot/moltbot/releases/download/v2026.9.9/OpenClaw-2026.9.9-arm64.dmg) | 162.0 MiB | `other` |
+| [OpenClaw-2026.9.9-arm64.dSYM.zip](https://github.com/moltbot/moltbot/releases/download/v2026.9.9/OpenClaw-2026.9.9-arm64.dSYM.zip) | 34.7 MiB | `other` |
+| [OpenClaw-2026.9.9-arm64.zip](https://github.com/moltbot/moltbot/releases/download/v2026.9.9/OpenClaw-2026.9.9-arm64.zip) | 239.7 MiB | `other` |
+| [openclaw-2026.9.9-dependency-evidence.zip](https://github.com/moltbot/moltbot/releases/download/v2026.9.9/openclaw-2026.9.9-dependency-evidence.zip) | 290.1 KiB | `other` |
+| [OpenClaw-2026.9.9-linux.json](https://github.com/moltbot/moltbot/releases/download/v2026.9.9/OpenClaw-2026.9.9-linux.json) | 3.6 KiB | `other` |
+| [openclaw-2026.9.9-postpublish-evidence.json](https://github.com/moltbot/moltbot/releases/download/v2026.9.9/openclaw-2026.9.9-postpublish-evidence.json) | 22.3 KiB | `other` |
+| [openclaw-2026.9.9-postpublish-evidence.json.sha256](https://github.com/moltbot/moltbot/releases/download/v2026.9.9/openclaw-2026.9.9-postpublish-evidence.json.sha256) | 110 B | `other` |
+| [openclaw-2026.9.9-release-manifest.json](https://github.com/moltbot/moltbot/releases/download/v2026.9.9/openclaw-2026.9.9-release-manifest.json) | 284.9 KiB | `other` |
+| [openclaw-2026.9.9-release-manifest.json.sha256](https://github.com/moltbot/moltbot/releases/download/v2026.9.9/openclaw-2026.9.9-release-manifest.json.sha256) | 106 B | `other` |
+| [openclaw-2026.9.9-stable-main-closeout.json](https://github.com/moltbot/moltbot/releases/download/v2026.9.9/openclaw-2026.9.9-stable-main-closeout.json) | 2.7 KiB | `other` |
+| [openclaw-2026.9.9-stable-main-closeout.json.sha256](https://github.com/moltbot/moltbot/releases/download/v2026.9.9/openclaw-2026.9.9-stable-main-closeout.json.sha256) | 110 B | `other` |
+| [OpenClaw-2026.9.9-x86_64.dmg](https://github.com/moltbot/moltbot/releases/download/v2026.9.9/OpenClaw-2026.9.9-x86_64.dmg) | 174.8 MiB | `other` |
+| [OpenClaw-2026.9.9-x86_64.dSYM.zip](https://github.com/moltbot/moltbot/releases/download/v2026.9.9/OpenClaw-2026.9.9-x86_64.dSYM.zip) | 36.8 MiB | `other` |
+| [OpenClaw-2026.9.9-x86_64.zip](https://github.com/moltbot/moltbot/releases/download/v2026.9.9/OpenClaw-2026.9.9-x86_64.zip) | 249.5 MiB | `other` |
+| [OpenClaw-2026.9.9.dmg](https://github.com/moltbot/moltbot/releases/download/v2026.9.9/OpenClaw-2026.9.9.dmg) | 328.6 MiB | `other` |
+| [OpenClaw-2026.9.9.dSYM.zip](https://github.com/moltbot/moltbot/releases/download/v2026.9.9/OpenClaw-2026.9.9.dSYM.zip) | 71.5 MiB | `other` |
+| [OpenClaw-2026.9.9.zip](https://github.com/moltbot/moltbot/releases/download/v2026.9.9/OpenClaw-2026.9.9.zip) | 478.8 MiB | `other` |
+| [OpenClawCompanion-Setup-arm64.exe](https://github.com/moltbot/moltbot/releases/download/v2026.9.9/OpenClawCompanion-Setup-arm64.exe) | 109.1 MiB | `other` |
+| [OpenClawCompanion-Setup-x64.exe](https://github.com/moltbot/moltbot/releases/download/v2026.9.9/OpenClawCompanion-Setup-x64.exe) | 122.8 MiB | `other` |
+| [OpenClawCompanion-SHA256SUMS.txt](https://github.com/moltbot/moltbot/releases/download/v2026.9.9/OpenClawCompanion-SHA256SUMS.txt) | 200 B | `other` |
+| [SHA256SUMS.linux-app.txt](https://github.com/moltbot/moltbot/releases/download/v2026.9.9/SHA256SUMS.linux-app.txt) | 197 B | `other` |
 
 ## 改进这些数据
 
@@ -86,4 +93,4 @@ moltbot 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261007.yml` · 2026-10-07T06:41:39Z._
+_数据快照: `data/card/261010.yml` · 2026-10-10T06:31:56Z._
