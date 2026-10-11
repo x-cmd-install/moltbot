@@ -14,15 +14,15 @@ x install moltbot
 
 ## Code insight
 
-Total: **11,498,411** lines of code across **47089** files in the top 5 languages.
+Total: **11,611,404** lines of code across **47651** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 10,317,270 | 176,822 | 566,028 | 43545 |
-| Swift | 412,895 | 8,637 | 37,422 | 1535 |
+| TypeScript | 10,406,191 | 178,853 | 567,476 | 44095 |
+| Swift | 412,604 | 8,635 | 37,412 | 1535 |
 | Kotlin | 227,429 | 3,930 | 19,820 | 618 |
-| JavaScript | 158,229 | 4,797 | 6,540 | 653 |
-| Json | 89,169 | 0 | 13 | 738 |
+| JavaScript | 158,830 | 4,829 | 6,510 | 661 |
+| Json | 90,692 | 0 | 13 | 742 |
 
 ## Source
 
@@ -32,57 +32,43 @@ Total: **11,498,411** lines of code across **47089** files in the top 5 language
 
 ## Release
 
-- **Latest**: `v2026.9.9` (2026-10-08)
-- **Last commit**: 2026-10-10
-- **Assets in release**: 24
+- **Latest**: `v2026.10.1` (2026-10-10)
+- **Last commit**: 2026-10-11
+- **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 391,556 · **Forks**: 82,295 · **Open issues**: 58,571 · **Contributors**: 3,251
+- **Stars**: 391,653 · **Forks**: 82,337 · **Open issues**: 58,711 · **Contributors**: 3,262
 
 ## Totals (cumulative)
 
-- **Releases**: 255 · **Merged PRs**: 51694 · **Open PRs**: 3311 · **Closed issues**: 52468 · **Open issues**: 6103 · **Commits**: 107137
+- **Releases**: 256 · **Merged PRs**: 52073 · **Open PRs**: 3345 · **Closed issues**: 52590 · **Open issues**: 6121 · **Commits**: 107648
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 14 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-11 | 22 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-12 | 34 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-13 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-15 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-20 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-11 | 14 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-12 | 23 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-13 | 35 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-14 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-16 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-21 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [latest.json](https://github.com/moltbot/moltbot/releases/download/v2026.9.9/latest.json) | 3.6 KiB | `other` |
-| [OpenClaw-2026.9.9-amd64.AppImage](https://github.com/moltbot/moltbot/releases/download/v2026.9.9/OpenClaw-2026.9.9-amd64.AppImage) | 133.7 MiB | `other` |
-| [OpenClaw-2026.9.9-amd64.deb](https://github.com/moltbot/moltbot/releases/download/v2026.9.9/OpenClaw-2026.9.9-amd64.deb) | 11.4 MiB | `other` |
-| [OpenClaw-2026.9.9-arm64.dmg](https://github.com/moltbot/moltbot/releases/download/v2026.9.9/OpenClaw-2026.9.9-arm64.dmg) | 162.0 MiB | `other` |
-| [OpenClaw-2026.9.9-arm64.dSYM.zip](https://github.com/moltbot/moltbot/releases/download/v2026.9.9/OpenClaw-2026.9.9-arm64.dSYM.zip) | 34.7 MiB | `other` |
-| [OpenClaw-2026.9.9-arm64.zip](https://github.com/moltbot/moltbot/releases/download/v2026.9.9/OpenClaw-2026.9.9-arm64.zip) | 239.7 MiB | `other` |
-| [openclaw-2026.9.9-dependency-evidence.zip](https://github.com/moltbot/moltbot/releases/download/v2026.9.9/openclaw-2026.9.9-dependency-evidence.zip) | 290.1 KiB | `other` |
-| [OpenClaw-2026.9.9-linux.json](https://github.com/moltbot/moltbot/releases/download/v2026.9.9/OpenClaw-2026.9.9-linux.json) | 3.6 KiB | `other` |
-| [openclaw-2026.9.9-postpublish-evidence.json](https://github.com/moltbot/moltbot/releases/download/v2026.9.9/openclaw-2026.9.9-postpublish-evidence.json) | 22.3 KiB | `other` |
-| [openclaw-2026.9.9-postpublish-evidence.json.sha256](https://github.com/moltbot/moltbot/releases/download/v2026.9.9/openclaw-2026.9.9-postpublish-evidence.json.sha256) | 110 B | `other` |
-| [openclaw-2026.9.9-release-manifest.json](https://github.com/moltbot/moltbot/releases/download/v2026.9.9/openclaw-2026.9.9-release-manifest.json) | 284.9 KiB | `other` |
-| [openclaw-2026.9.9-release-manifest.json.sha256](https://github.com/moltbot/moltbot/releases/download/v2026.9.9/openclaw-2026.9.9-release-manifest.json.sha256) | 106 B | `other` |
-| [openclaw-2026.9.9-stable-main-closeout.json](https://github.com/moltbot/moltbot/releases/download/v2026.9.9/openclaw-2026.9.9-stable-main-closeout.json) | 2.7 KiB | `other` |
-| [openclaw-2026.9.9-stable-main-closeout.json.sha256](https://github.com/moltbot/moltbot/releases/download/v2026.9.9/openclaw-2026.9.9-stable-main-closeout.json.sha256) | 110 B | `other` |
-| [OpenClaw-2026.9.9-x86_64.dmg](https://github.com/moltbot/moltbot/releases/download/v2026.9.9/OpenClaw-2026.9.9-x86_64.dmg) | 174.8 MiB | `other` |
-| [OpenClaw-2026.9.9-x86_64.dSYM.zip](https://github.com/moltbot/moltbot/releases/download/v2026.9.9/OpenClaw-2026.9.9-x86_64.dSYM.zip) | 36.8 MiB | `other` |
-| [OpenClaw-2026.9.9-x86_64.zip](https://github.com/moltbot/moltbot/releases/download/v2026.9.9/OpenClaw-2026.9.9-x86_64.zip) | 249.5 MiB | `other` |
-| [OpenClaw-2026.9.9.dmg](https://github.com/moltbot/moltbot/releases/download/v2026.9.9/OpenClaw-2026.9.9.dmg) | 328.6 MiB | `other` |
-| [OpenClaw-2026.9.9.dSYM.zip](https://github.com/moltbot/moltbot/releases/download/v2026.9.9/OpenClaw-2026.9.9.dSYM.zip) | 71.5 MiB | `other` |
-| [OpenClaw-2026.9.9.zip](https://github.com/moltbot/moltbot/releases/download/v2026.9.9/OpenClaw-2026.9.9.zip) | 478.8 MiB | `other` |
-| [OpenClawCompanion-Setup-arm64.exe](https://github.com/moltbot/moltbot/releases/download/v2026.9.9/OpenClawCompanion-Setup-arm64.exe) | 109.1 MiB | `other` |
-| [OpenClawCompanion-Setup-x64.exe](https://github.com/moltbot/moltbot/releases/download/v2026.9.9/OpenClawCompanion-Setup-x64.exe) | 122.8 MiB | `other` |
-| [OpenClawCompanion-SHA256SUMS.txt](https://github.com/moltbot/moltbot/releases/download/v2026.9.9/OpenClawCompanion-SHA256SUMS.txt) | 200 B | `other` |
-| [SHA256SUMS.linux-app.txt](https://github.com/moltbot/moltbot/releases/download/v2026.9.9/SHA256SUMS.linux-app.txt) | 197 B | `other` |
+| [latest.json](https://github.com/moltbot/moltbot/releases/download/v2026.10.1/latest.json) | 3.6 KiB | `other` |
+| [OpenClaw-2026.10.1-amd64.AppImage](https://github.com/moltbot/moltbot/releases/download/v2026.10.1/OpenClaw-2026.10.1-amd64.AppImage) | 166.6 MiB | `other` |
+| [OpenClaw-2026.10.1-amd64.deb](https://github.com/moltbot/moltbot/releases/download/v2026.10.1/OpenClaw-2026.10.1-amd64.deb) | 47.3 MiB | `other` |
+| [openclaw-2026.10.1-dependency-evidence.zip](https://github.com/moltbot/moltbot/releases/download/v2026.10.1/openclaw-2026.10.1-dependency-evidence.zip) | 293.4 KiB | `other` |
+| [OpenClaw-2026.10.1-linux.json](https://github.com/moltbot/moltbot/releases/download/v2026.10.1/OpenClaw-2026.10.1-linux.json) | 3.6 KiB | `other` |
+| [openclaw-2026.10.1-postpublish-evidence.json](https://github.com/moltbot/moltbot/releases/download/v2026.10.1/openclaw-2026.10.1-postpublish-evidence.json) | 22.5 KiB | `other` |
+| [openclaw-2026.10.1-postpublish-evidence.json.sha256](https://github.com/moltbot/moltbot/releases/download/v2026.10.1/openclaw-2026.10.1-postpublish-evidence.json.sha256) | 111 B | `other` |
+| [openclaw-2026.10.1-release-manifest.json](https://github.com/moltbot/moltbot/releases/download/v2026.10.1/openclaw-2026.10.1-release-manifest.json) | 297.1 KiB | `other` |
+| [openclaw-2026.10.1-release-manifest.json.sha256](https://github.com/moltbot/moltbot/releases/download/v2026.10.1/openclaw-2026.10.1-release-manifest.json.sha256) | 107 B | `other` |
+| [SHA256SUMS.linux-app.txt](https://github.com/moltbot/moltbot/releases/download/v2026.10.1/SHA256SUMS.linux-app.txt) | 199 B | `other` |
 
 ## Improve this data
 
@@ -93,4 +79,4 @@ Install metadata for moltbot lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T06:31:56Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T06:26:55Z._
